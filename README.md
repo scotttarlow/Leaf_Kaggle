@@ -16,20 +16,20 @@ Description of Items in the Repo:
 
 	images: All the images of the leaves for the kaggle competition 
 
-leaf_gifs: All the images in the training set of the leaves sorted into gifs by their species 
+	leaf_gifs: All the images in the training set of the leaves sorted into gifs by their species 
 
-lib: Various functions for the competition- Loading Data, Resizing Images and Plotting convolutions
+	lib: Various functions for the competition- Loading Data, Resizing Images and Plotting convolutions
 
-model_ipynb: Jupyter Notebooks for all the models run in this project 
+	model_ipynb: Jupyter Notebooks for all the models run in this project 
 
-report_figures: Figures for Tarlow_Capstone_Report.ipynb
+	report_figures: Figures for Tarlow_Capstone_Report.ipynb
 
-saved_models: pickled models (and model data)
+	saved_models: pickled models (and model data)
 
-Tarlow_Capstone_Report.ipynb: A report on the project, with analysis and conclusions
+	Tarlow_Capstone_Report.ipynb: A report on the project, with analysis and conclusions
 
-Visualization.ipynb: A notebook of visualizations that have to do with the project
+	Visualization.ipynb: A notebook of visualizations that have to do with the project
 
-test.csv: Kaggle's numerical data for the test set that is used for submission to the Competition
+	test.csv: Kaggle's numerical data for the test set that is used for submission to the Competition
 
-train.csv:  Kaggle's numerical data for the training of models.
+	train.csv:  Kaggle's numerical data for the training of models.
