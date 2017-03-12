@@ -14,7 +14,7 @@ species from its corresponding image.
 
 Description of Items in the Repo:
 
-images: All the images of the leaves for the kaggle competition 
+	images: All the images of the leaves for the kaggle competition 
 
 leaf_gifs: All the images in the training set of the leaves sorted into gifs by their species 
 
